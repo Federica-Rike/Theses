@@ -1,5 +1,5 @@
 # Theses
-This repository contains my BSc and MSc Theses:
+This repository contains my BSc and MSc Theses in Mathematics:
 - "A Co-homological Approach to Maxwell's Electromagnetic Field Theory" with Prof. Anna Tozzi and Prof. Luigi Pilo (University of L'Aquila, Italy);
 - "Prefactorisation Algebras: Introduction and Examples" with Prof. Thomas Schick and Prof. Ralf Meyer (University of Göttingen, Germany).
 
